@@ -82,7 +82,7 @@ body main .thumbnails {
 }
 body main .thumbnails > img {
   max-height: 20vh;
-  max-width: 100vw;
+  max-width: 100%;
   line-height: 150px;
   background: #ec985a;
   color: white;
@@ -100,305 +100,310 @@ body main .thumbnails > img {
   }
 }
 body main .thumbnails > img div:nth-child(1) {
-  width: 189px;
+  width: 461px;
 }
 body main .thumbnails > img div:nth-child(2) {
-  width: 81px;
+  width: 243px;
 }
 body main .thumbnails > img div:nth-child(3) {
-  width: 441px;
+  width: 241px;
 }
 body main .thumbnails > img div:nth-child(4) {
-  width: 270px;
+  width: 419px;
 }
 body main .thumbnails > img div:nth-child(5) {
-  width: 313px;
+  width: 465px;
 }
 body main .thumbnails > img div:nth-child(6) {
-  width: 99px;
+  width: 241px;
 }
 body main .thumbnails > img div:nth-child(7) {
-  width: 443px;
+  width: 265px;
 }
 body main .thumbnails > img div:nth-child(8) {
-  width: 129px;
+  width: 339px;
 }
 body main .thumbnails > img div:nth-child(9) {
-  width: 393px;
+  width: 415px;
 }
 body main .thumbnails > img div:nth-child(10) {
-  width: 229px;
-}
-body main .thumbnails > img div:nth-child(11) {
-  width: 344px;
-}
-body main .thumbnails > img div:nth-child(12) {
-  width: 245px;
-}
-body main .thumbnails > img div:nth-child(13) {
-  width: 246px;
-}
-body main .thumbnails > img div:nth-child(14) {
-  width: 151px;
-}
-body main .thumbnails > img div:nth-child(15) {
-  width: 182px;
-}
-body main .thumbnails > img div:nth-child(16) {
-  width: 192px;
-}
-body main .thumbnails > img div:nth-child(17) {
-  width: 95px;
-}
-body main .thumbnails > img div:nth-child(18) {
-  width: 274px;
-}
-body main .thumbnails > img div:nth-child(19) {
-  width: 173px;
-}
-body main .thumbnails > img div:nth-child(20) {
-  width: 158px;
-}
-body main .thumbnails > img div:nth-child(21) {
-  width: 249px;
-}
-body main .thumbnails > img div:nth-child(22) {
-  width: 354px;
-}
-body main .thumbnails > img div:nth-child(23) {
-  width: 87px;
-}
-body main .thumbnails > img div:nth-child(24) {
-  width: 439px;
-}
-body main .thumbnails > img div:nth-child(25) {
-  width: 100px;
-}
-body main .thumbnails > img div:nth-child(26) {
-  width: 407px;
-}
-body main .thumbnails > img div:nth-child(27) {
-  width: 145px;
-}
-body main .thumbnails > img div:nth-child(28) {
-  width: 309px;
-}
-body main .thumbnails > img div:nth-child(29) {
-  width: 90px;
-}
-body main .thumbnails > img div:nth-child(30) {
-  width: 458px;
-}
-body main .thumbnails > img div:nth-child(31) {
-  width: 254px;
-}
-body main .thumbnails > img div:nth-child(32) {
-  width: 239px;
-}
-body main .thumbnails > img div:nth-child(33) {
-  width: 448px;
-}
-body main .thumbnails > img div:nth-child(34) {
-  width: 232px;
-}
-body main .thumbnails > img div:nth-child(35) {
-  width: 383px;
-}
-body main .thumbnails > img div:nth-child(36) {
-  width: 141px;
-}
-body main .thumbnails > img div:nth-child(37) {
-  width: 76px;
-}
-body main .thumbnails > img div:nth-child(38) {
-  width: 262px;
-}
-body main .thumbnails > img div:nth-child(39) {
-  width: 408px;
-}
-body main .thumbnails > img div:nth-child(40) {
-  width: 121px;
-}
-body main .thumbnails > img div:nth-child(41) {
-  width: 290px;
-}
-body main .thumbnails > img div:nth-child(42) {
-  width: 290px;
-}
-body main .thumbnails > img div:nth-child(43) {
-  width: 420px;
-}
-body main .thumbnails > img div:nth-child(44) {
-  width: 218px;
-}
-body main .thumbnails > img div:nth-child(45) {
-  width: 208px;
-}
-body main .thumbnails > img div:nth-child(46) {
-  width: 149px;
-}
-body main .thumbnails > img div:nth-child(47) {
-  width: 385px;
-}
-body main .thumbnails > img div:nth-child(48) {
-  width: 154px;
-}
-body main .thumbnails > img div:nth-child(49) {
-  width: 467px;
-}
-body main .thumbnails > img div:nth-child(50) {
-  width: 118px;
-}
-body main .thumbnails > img div:nth-child(51) {
-  width: 381px;
-}
-body main .thumbnails > img div:nth-child(52) {
-  width: 226px;
-}
-body main .thumbnails > img div:nth-child(53) {
-  width: 140px;
-}
-body main .thumbnails > img div:nth-child(54) {
-  width: 117px;
-}
-body main .thumbnails > img div:nth-child(55) {
-  width: 377px;
-}
-body main .thumbnails > img div:nth-child(56) {
-  width: 389px;
-}
-body main .thumbnails > img div:nth-child(57) {
-  width: 240px;
-}
-body main .thumbnails > img div:nth-child(58) {
-  width: 142px;
-}
-body main .thumbnails > img div:nth-child(59) {
-  width: 184px;
-}
-body main .thumbnails > img div:nth-child(60) {
-  width: 172px;
-}
-body main .thumbnails > img div:nth-child(61) {
-  width: 435px;
-}
-body main .thumbnails > img div:nth-child(62) {
-  width: 347px;
-}
-body main .thumbnails > img div:nth-child(63) {
-  width: 438px;
-}
-body main .thumbnails > img div:nth-child(64) {
-  width: 281px;
-}
-body main .thumbnails > img div:nth-child(65) {
-  width: 301px;
-}
-body main .thumbnails > img div:nth-child(66) {
-  width: 184px;
-}
-body main .thumbnails > img div:nth-child(67) {
-  width: 283px;
-}
-body main .thumbnails > img div:nth-child(68) {
-  width: 122px;
-}
-body main .thumbnails > img div:nth-child(69) {
-  width: 424px;
-}
-body main .thumbnails > img div:nth-child(70) {
-  width: 336px;
-}
-body main .thumbnails > img div:nth-child(71) {
-  width: 80px;
-}
-body main .thumbnails > img div:nth-child(72) {
-  width: 318px;
-}
-body main .thumbnails > img div:nth-child(73) {
-  width: 293px;
-}
-body main .thumbnails > img div:nth-child(74) {
-  width: 177px;
-}
-body main .thumbnails > img div:nth-child(75) {
-  width: 133px;
-}
-body main .thumbnails > img div:nth-child(76) {
-  width: 116px;
-}
-body main .thumbnails > img div:nth-child(77) {
-  width: 409px;
-}
-body main .thumbnails > img div:nth-child(78) {
-  width: 215px;
-}
-body main .thumbnails > img div:nth-child(79) {
-  width: 466px;
-}
-body main .thumbnails > img div:nth-child(80) {
-  width: 384px;
-}
-body main .thumbnails > img div:nth-child(81) {
-  width: 90px;
-}
-body main .thumbnails > img div:nth-child(82) {
-  width: 390px;
-}
-body main .thumbnails > img div:nth-child(83) {
-  width: 357px;
-}
-body main .thumbnails > img div:nth-child(84) {
-  width: 438px;
-}
-body main .thumbnails > img div:nth-child(85) {
-  width: 210px;
-}
-body main .thumbnails > img div:nth-child(86) {
-  width: 109px;
-}
-body main .thumbnails > img div:nth-child(87) {
-  width: 262px;
-}
-body main .thumbnails > img div:nth-child(88) {
-  width: 139px;
-}
-body main .thumbnails > img div:nth-child(89) {
-  width: 440px;
-}
-body main .thumbnails > img div:nth-child(90) {
-  width: 406px;
-}
-body main .thumbnails > img div:nth-child(91) {
-  width: 166px;
-}
-body main .thumbnails > img div:nth-child(92) {
-  width: 373px;
-}
-body main .thumbnails > img div:nth-child(93) {
-  width: 418px;
-}
-body main .thumbnails > img div:nth-child(94) {
-  width: 289px;
-}
-body main .thumbnails > img div:nth-child(95) {
-  width: 280px;
-}
-body main .thumbnails > img div:nth-child(96) {
-  width: 382px;
-}
-body main .thumbnails > img div:nth-child(97) {
-  width: 443px;
-}
-body main .thumbnails > img div:nth-child(98) {
   width: 111px;
 }
-body main .thumbnails > img div:nth-child(99) {
+body main .thumbnails > img div:nth-child(11) {
+  width: 81px;
+}
+body main .thumbnails > img div:nth-child(12) {
+  width: 76px;
+}
+body main .thumbnails > img div:nth-child(13) {
+  width: 87px;
+}
+body main .thumbnails > img div:nth-child(14) {
+  width: 74px;
+}
+body main .thumbnails > img div:nth-child(15) {
+  width: 241px;
+}
+body main .thumbnails > img div:nth-child(16) {
+  width: 331px;
+}
+body main .thumbnails > img div:nth-child(17) {
+  width: 362px;
+}
+body main .thumbnails > img div:nth-child(18) {
+  width: 242px;
+}
+body main .thumbnails > img div:nth-child(19) {
+  width: 131px;
+}
+body main .thumbnails > img div:nth-child(20) {
+  width: 127px;
+}
+body main .thumbnails > img div:nth-child(21) {
+  width: 387px;
+}
+body main .thumbnails > img div:nth-child(22) {
+  width: 220px;
+}
+body main .thumbnails > img div:nth-child(23) {
+  width: 191px;
+}
+body main .thumbnails > img div:nth-child(24) {
+  width: 131px;
+}
+body main .thumbnails > img div:nth-child(25) {
+  width: 390px;
+}
+body main .thumbnails > img div:nth-child(26) {
+  width: 152px;
+}
+body main .thumbnails > img div:nth-child(27) {
+  width: 140px;
+}
+body main .thumbnails > img div:nth-child(28) {
+  width: 284px;
+}
+body main .thumbnails > img div:nth-child(29) {
+  width: 109px;
+}
+body main .thumbnails > img div:nth-child(30) {
+  width: 452px;
+}
+body main .thumbnails > img div:nth-child(31) {
+  width: 227px;
+}
+body main .thumbnails > img div:nth-child(32) {
+  width: 111px;
+}
+body main .thumbnails > img div:nth-child(33) {
+  width: 418px;
+}
+body main .thumbnails > img div:nth-child(34) {
+  width: 217px;
+}
+body main .thumbnails > img div:nth-child(35) {
+  width: 291px;
+}
+body main .thumbnails > img div:nth-child(36) {
+  width: 408px;
+}
+body main .thumbnails > img div:nth-child(37) {
+  width: 447px;
+}
+body main .thumbnails > img div:nth-child(38) {
+  width: 372px;
+}
+body main .thumbnails > img div:nth-child(39) {
+  width: 80px;
+}
+body main .thumbnails > img div:nth-child(40) {
+  width: 267px;
+}
+body main .thumbnails > img div:nth-child(41) {
+  width: 377px;
+}
+body main .thumbnails > img div:nth-child(42) {
+  width: 237px;
+}
+body main .thumbnails > img div:nth-child(43) {
+  width: 343px;
+}
+body main .thumbnails > img div:nth-child(44) {
+  width: 458px;
+}
+body main .thumbnails > img div:nth-child(45) {
+  width: 262px;
+}
+body main .thumbnails > img div:nth-child(46) {
+  width: 358px;
+}
+body main .thumbnails > img div:nth-child(47) {
+  width: 315px;
+}
+body main .thumbnails > img div:nth-child(48) {
+  width: 218px;
+}
+body main .thumbnails > img div:nth-child(49) {
+  width: 184px;
+}
+body main .thumbnails > img div:nth-child(50) {
+  width: 462px;
+}
+body main .thumbnails > img div:nth-child(51) {
+  width: 116px;
+}
+body main .thumbnails > img div:nth-child(52) {
+  width: 191px;
+}
+body main .thumbnails > img div:nth-child(53) {
+  width: 133px;
+}
+body main .thumbnails > img div:nth-child(54) {
+  width: 250px;
+}
+body main .thumbnails > img div:nth-child(55) {
   width: 324px;
 }
+body main .thumbnails > img div:nth-child(56) {
+  width: 100px;
+}
+body main .thumbnails > img div:nth-child(57) {
+  width: 74px;
+}
+body main .thumbnails > img div:nth-child(58) {
+  width: 132px;
+}
+body main .thumbnails > img div:nth-child(59) {
+  width: 454px;
+}
+body main .thumbnails > img div:nth-child(60) {
+  width: 381px;
+}
+body main .thumbnails > img div:nth-child(61) {
+  width: 341px;
+}
+body main .thumbnails > img div:nth-child(62) {
+  width: 437px;
+}
+body main .thumbnails > img div:nth-child(63) {
+  width: 191px;
+}
+body main .thumbnails > img div:nth-child(64) {
+  width: 378px;
+}
+body main .thumbnails > img div:nth-child(65) {
+  width: 112px;
+}
+body main .thumbnails > img div:nth-child(66) {
+  width: 325px;
+}
+body main .thumbnails > img div:nth-child(67) {
+  width: 251px;
+}
+body main .thumbnails > img div:nth-child(68) {
+  width: 96px;
+}
+body main .thumbnails > img div:nth-child(69) {
+  width: 356px;
+}
+body main .thumbnails > img div:nth-child(70) {
+  width: 113px;
+}
+body main .thumbnails > img div:nth-child(71) {
+  width: 300px;
+}
+body main .thumbnails > img div:nth-child(72) {
+  width: 186px;
+}
+body main .thumbnails > img div:nth-child(73) {
+  width: 229px;
+}
+body main .thumbnails > img div:nth-child(74) {
+  width: 242px;
+}
+body main .thumbnails > img div:nth-child(75) {
+  width: 111px;
+}
+body main .thumbnails > img div:nth-child(76) {
+  width: 112px;
+}
+body main .thumbnails > img div:nth-child(77) {
+  width: 287px;
+}
+body main .thumbnails > img div:nth-child(78) {
+  width: 179px;
+}
+body main .thumbnails > img div:nth-child(79) {
+  width: 269px;
+}
+body main .thumbnails > img div:nth-child(80) {
+  width: 446px;
+}
+body main .thumbnails > img div:nth-child(81) {
+  width: 155px;
+}
+body main .thumbnails > img div:nth-child(82) {
+  width: 165px;
+}
+body main .thumbnails > img div:nth-child(83) {
+  width: 313px;
+}
+body main .thumbnails > img div:nth-child(84) {
+  width: 443px;
+}
+body main .thumbnails > img div:nth-child(85) {
+  width: 166px;
+}
+body main .thumbnails > img div:nth-child(86) {
+  width: 339px;
+}
+body main .thumbnails > img div:nth-child(87) {
+  width: 264px;
+}
+body main .thumbnails > img div:nth-child(88) {
+  width: 137px;
+}
+body main .thumbnails > img div:nth-child(89) {
+  width: 393px;
+}
+body main .thumbnails > img div:nth-child(90) {
+  width: 216px;
+}
+body main .thumbnails > img div:nth-child(91) {
+  width: 219px;
+}
+body main .thumbnails > img div:nth-child(92) {
+  width: 451px;
+}
+body main .thumbnails > img div:nth-child(93) {
+  width: 374px;
+}
+body main .thumbnails > img div:nth-child(94) {
+  width: 215px;
+}
+body main .thumbnails > img div:nth-child(95) {
+  width: 416px;
+}
+body main .thumbnails > img div:nth-child(96) {
+  width: 161px;
+}
+body main .thumbnails > img div:nth-child(97) {
+  width: 412px;
+}
+body main .thumbnails > img div:nth-child(98) {
+  width: 177px;
+}
+body main .thumbnails > img div:nth-child(99) {
+  width: 272px;
+}
 body main .thumbnails > img div:nth-child(100) {
-  width: 337px;
+  width: 286px;
 }
 body main .thumbnails > img.background-design {
   border: 4px black solid;
+}
+body main .thumbnails > img.animation {
+  max-height: unset;
+  max-width: unset;
+  width: 20vw;
 }

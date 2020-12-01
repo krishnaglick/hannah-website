@@ -4,12 +4,12 @@
         window.categories.forEach((category) => document.getElementById(category).classList.add("hidden"));
         document.getElementById(selectedCategory).classList.remove("hidden");
         document.querySelectorAll(`.nav-item`).forEach((item) => item.classList.remove("selected"));
-        document.querySelector(`main .${selectedCategory}.nav-item`).classList.add("selected");
+        document.querySelector(`.${selectedCategory}.nav-item`).classList.add("selected");
     }
     hashChange();
     window.addEventListener("hashchange", hashChange, false);
 
-    document.querySelectorAll("img").forEach((img) => {
+    document.querySelectorAll("main img").forEach((img) => {
         let imageBox;
         img.addEventListener("click", () => {
             // This should take img but it doesn't.

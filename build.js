@@ -33,11 +33,12 @@ const order = ["background-design", "illustrations", "animation"];
         order
             .map(
                 (key, i) =>
-                    `<div id=${key} ${i > 0 ? `class="hidden"` : ""}><h3>${keyToNavLink(
-                        key
-                    )}</h3><div class="thumbnails">${groupedImages[key]
-                        .map((url) => generateImage(url, key))
-                        .join("")}</div></div>`
+                    `<div id=${key} ${i > 0 ? `class="hidden"` : ""}>
+                        <h2>${keyToNavLink(key)}</h2>
+                        <div class="thumbnails">
+                            ${groupedImages[key].map((url) => generateImage(url, key)).join("")}
+                        </div>
+                    </div>`
             )
             .join("\n")
     );
