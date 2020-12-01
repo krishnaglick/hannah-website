@@ -4,7 +4,7 @@
         window.categories.forEach((category) => document.getElementById(category).classList.add("hidden"));
         document.getElementById(selectedCategory).classList.remove("hidden");
         document.querySelectorAll(`.nav-item`).forEach((item) => item.classList.remove("selected"));
-        document.querySelector(`.${selectedCategory}.nav-item`).classList.add("selected");
+        document.querySelector(`main .${selectedCategory}.nav-item`).classList.add("selected");
     }
     hashChange();
     window.addEventListener("hashchange", hashChange, false);
