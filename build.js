@@ -26,7 +26,7 @@ const order = ["background-design", "illustrations", "animation"];
     let indexHtml = fs.readFileSync("./base-index.html", { encoding: "utf8" });
     indexHtml = indexHtml.replace(
         /\{\{nav\}\}/,
-        order.map((key) => `<li class="${key} nav-item"><a href="#${key}">${keyToNavLink(key)}</a></li>`).join("\n")
+        order.map((key) => `<span class="${key} nav-item"><a href="#${key}">${keyToNavLink(key)}</a></span>`).join("\n")
     );
     indexHtml = indexHtml.replace(
         /\{\{content\}\}/,
